@@ -1,0 +1,2 @@
+This repository contains eight project showing computational techniques used in the field of physics and astronomy. The notebooks were developed as assignments for a Laboratory of Machine Learning for Physics and Astronomy.
+They show techniques such as: Probability density estimation, Monte Carlo Markov Chain, Nested sampling, model comparison and much more, also exploiting them on different types of datasets
